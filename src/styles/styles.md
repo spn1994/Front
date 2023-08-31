@@ -1,0 +1,1 @@
+aqui nos colocamos tudo que aplicação tem em comum
